@@ -1,3 +1,4 @@
-def () {
-  echo "I am Vishal Vaishnav"
+def call() {
+    echo "I am Vishal Vaishnav"
+    ls -ltr
 }
